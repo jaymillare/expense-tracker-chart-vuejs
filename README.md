@@ -1,4 +1,4 @@
-# healint-assignment
+# expense-tracker-chart-vuejs
 
 > A Vue.js project
 
